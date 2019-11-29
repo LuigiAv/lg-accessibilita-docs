@@ -5,7 +5,7 @@ Compendio
 ---------
 
 Il presente documento di Linee Guida, redatto secondo quanto riportato e
-contenuto nell’articolo 11 della Legge n. 4/2004, è strutturato in 7
+contenuto nell’articolo 11 della Legge del 9 gennaio 2004, n.4, è strutturato in 7
 capitoli, come di seguito descritto:
 
 -  Capitolo 1. **Introduzione**
